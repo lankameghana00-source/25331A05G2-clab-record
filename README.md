@@ -1,1 +1,6 @@
-# 25331A05G2-clab-record
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
